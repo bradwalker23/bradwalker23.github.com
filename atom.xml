@@ -4,25 +4,13 @@
   <title><![CDATA[abrumpo]]></title>
   <link href="http://bradwalker23.github.com/atom.xml" rel="self"/>
   <link href="http://bradwalker23.github.com/"/>
-  <updated>2013-03-07T10:15:50-07:00</updated>
+  <updated>2013-03-07T10:19:15-07:00</updated>
   <id>http://bradwalker23.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[abrumpo LLC]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[First Blog Test]]></title>
-    <link href="http://bradwalker23.github.com/blog/2013/03/07/first-blog-test/"/>
-    <updated>2013-03-07T09:49:00-07:00</updated>
-    <id>http://bradwalker23.github.com/blog/2013/03/07/first-blog-test</id>
-    <content type="html"><![CDATA[<p>This is my first blog post!!</p>
-
-<ul><li>test</li></ul>
-
-]]></content>
-  </entry>
   
 </feed>
