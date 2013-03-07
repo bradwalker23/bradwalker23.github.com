@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://bradwalker23.github.com/blog/2013/03/07/first-blog-test/</loc>
+        <lastmod>2013-03-07T10:03:50-07:00</lastmod>
+    </url>
+    <url>
         <loc>http://bradwalker23.github.com/blog/archives/</loc>
-        <lastmod>2013-03-07T09:42:04-07:00</lastmod>
+        <lastmod>2013-03-07T10:03:50-07:00</lastmod>
     </url>
     <url>
         <loc>http://bradwalker23.github.com/</loc>
-        <lastmod>2013-03-07T09:42:04-07:00</lastmod>
+        <lastmod>2013-03-07T10:03:50-07:00</lastmod>
     </url>
     <url>
         <loc>http://bradwalker23.github.com/robots.txt</loc>
