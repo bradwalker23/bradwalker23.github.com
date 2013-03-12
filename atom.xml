@@ -4,7 +4,7 @@
   <title><![CDATA[abrumpo]]></title>
   <link href="http://bradwalker23.github.com/atom.xml" rel="self"/>
   <link href="http://bradwalker23.github.com/"/>
-  <updated>2013-03-11T21:34:51-06:00</updated>
+  <updated>2013-03-12T09:56:50-06:00</updated>
   <id>http://bradwalker23.github.com/</id>
   <author>
     <name><![CDATA[abrumpo LLC]]></name>
@@ -21,6 +21,9 @@
     <content type="html"><![CDATA[<p><span style="text-decoration:underline;font-weight:bold">Version 1.0</span></p>
 
 <p>upThair is an aggregator of cloud services.  Version 1.0 is focused on file management within and across multiple cloud services. Within a service, it allows users to view iOS supported file types, view and save files offline, rename, copy, move, delete, and upload files.*  upThair also allows users to search for and copy files across cloud services. Additionally, users can view, start, stop, and reboot their Amazon Web Services (AWS) EC2 servers.<br/></p>
+
+<!-- more -->
+
 
 <p>Supported cloud services include:</p>
 
