@@ -8,7 +8,7 @@ categories:
 <span style="text-decoration:underline;font-weight:bold">Version 1.0</span>
 
 upThair is an aggregator of cloud services.  Version 1.0 is focused on file management within and across multiple cloud services. Within a service, it allows users to view iOS supported file types, view and save files offline, rename, copy, move, delete, and upload files.*  upThair also allows users to search for and copy files across cloud services. Additionally, users can view, start, stop, and reboot their Amazon Web Services (AWS) EC2 servers.<br/>
-
+<!-- more -->
 Supported cloud services include:
 <ul style="list-style-type: disc;list-style-position: inside;padding-left:4%">
 <li>Amazon Web Services (AWS) S3 & EC2</li>
