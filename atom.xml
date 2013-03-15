@@ -4,7 +4,7 @@
   <title><![CDATA[abrumpo]]></title>
   <link href="http://bradwalker23.github.com/atom.xml" rel="self"/>
   <link href="http://bradwalker23.github.com/"/>
-  <updated>2013-03-12T09:56:50-06:00</updated>
+  <updated>2013-03-15T10:04:21-06:00</updated>
   <id>http://bradwalker23.github.com/</id>
   <author>
     <name><![CDATA[abrumpo LLC]]></name>
@@ -12,6 +12,74 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[upThair Green now available!!]]></title>
+    <link href="http://bradwalker23.github.com/blog/2013/03/15/upthair-green/"/>
+    <updated>2013-03-15T09:58:00-06:00</updated>
+    <id>http://bradwalker23.github.com/blog/2013/03/15/upthair-green</id>
+    <content type="html"><![CDATA[<p>upThair Green by abrumpo is an aggregator of Google Drive accounts.  It allows users to view iOS supported file types, view and save files offline, rename, copy, move, delete, and upload files(within an account or between accounts).  upThair Green also allows users to search for and copy files across Google Drive accounts.</p>
+
+<!-- more -->
+
+
+<p>*upThair does not support file editing capability</p>
+
+<p><span style="text-decoration:underline;">File Preview (iOS Native Types)</span></p>
+
+<ul style="list-style-type: disc;list-style-position: inside;padding-left:4%">
+<li>Adobe PDF (.pdf)</li>
+<li>Images (.jpg, .tif, .gif, .png, .bmp)</li>
+<li>Movies (.mov, .mp4, .m4v)</li>
+<li>Music (.mp3, .m4a, .wav)</li>
+<li>Microsoft Excel Spreadsheets (.xls, .xlsx)</li>
+<li>Microsoft PowerPoint Documents (.ppt, .pptx)</li>
+<li>Microsoft Word Documents (.doc, .docx)</li>
+<li>Keynote Presentations (.key)</li>
+<li>Numbers Spreadsheets (.numbers)</li>
+<li>Pages Documents (.pages)</li>
+<li>Text Files (.txt, .rtf, and many more)</li>
+<li>Web Pages (.htm, .html)</li>
+</ul>
+
+
+<p>© 2013 abrumpo LLC. All rights reserved. All trademarks, service marks and trade names referenced in this material are the property of their respective owners.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[upThair Light Blue now available!!]]></title>
+    <link href="http://bradwalker23.github.com/blog/2013/03/15/upthair-light-blue/"/>
+    <updated>2013-03-15T09:57:00-06:00</updated>
+    <id>http://bradwalker23.github.com/blog/2013/03/15/upthair-light-blue</id>
+    <content type="html"><![CDATA[<p>upThair Light Blue by abrumpo is an aggregator of Dropbox accounts.  It allows users to view iOS supported file types, view and save files offline, rename, copy, move, delete, and upload files(within an account or between accounts).  upThair Light Blue also allows users to search for and copy files across Dropbox accounts.</p>
+
+<!-- more -->
+
+
+<p>*upThair does not support file editing capability</p>
+
+<p><span style="text-decoration:underline;">File Preview (iOS Native Types)</span></p>
+
+<ul style="list-style-type: disc;list-style-position: inside;padding-left:4%">
+<li>Adobe PDF (.pdf)</li>
+<li>Images (.jpg, .tif, .gif, .png, .bmp)</li>
+<li>Movies (.mov, .mp4, .m4v)</li>
+<li>Music (.mp3, .m4a, .wav)</li>
+<li>Microsoft Excel Spreadsheets (.xls, .xlsx)</li>
+<li>Microsoft PowerPoint Documents (.ppt, .pptx)</li>
+<li>Microsoft Word Documents (.doc, .docx)</li>
+<li>Keynote Presentations (.key)</li>
+<li>Numbers Spreadsheets (.numbers)</li>
+<li>Pages Documents (.pages)</li>
+<li>Text Files (.txt, .rtf, and many more)</li>
+<li>Web Pages (.htm, .html)</li>
+</ul>
+
+
+<p>© 2013 abrumpo LLC. All rights reserved. All trademarks, service marks and trade names referenced in this material are the property of their respective owners.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[upThair now available!!]]></title>
